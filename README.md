@@ -131,7 +131,8 @@ This provides additional visibility into process execution, network connections,
 
 ### Hydra RDP Authentication Test — Credentials Redacted
 
-![Hydra](<img width="800" height="331" alt="image" src="https://github.com/user-attachments/assets/d753be24-0729-4cbd-93f1-87e3d2544b65" />
+![Hydra](<img width="1947" height="808" alt="screenshot jpg" src="https://github.com/user-attachments/assets/5340e1ce-6fbf-447d-972f-9eac7c1a602b" />
+
 )
 
 ### Wazuh Threat Hunting Dashboard
