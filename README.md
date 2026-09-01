@@ -176,5 +176,5 @@ This project is a **local, isolated security lab** created for learning, detecti
 
 ## 👤 Author
 
-**Vicky** — BSc Computer Science (Cyber Security), 2nd Year
+**Vignesh S** — BSc Computer Science (Cyber Security), 2nd Year
 "# soc-lab-attack-detection" 
