@@ -1,0 +1,27 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# Secrets / local configs
+.env
+.env.*
+*.key
+*.pem
+*.pfx
+*.ovpn
+
+# VirtualBox runtime / machine state
+*.sav
+*.vbox-prev
+*.vdi
+*.vmdk
+*.ova
+*.iso
+
+# Temporary files
+*.tmp
+*.log
